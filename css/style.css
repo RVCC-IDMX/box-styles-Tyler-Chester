@@ -12,6 +12,9 @@
   } 
   
 .box-two {
-    background-color: green;
+    background-color: blue;
     border: 0 solid yellow;
+    padding: 20px;
+    margin: 20px;
+    border-width: 20px;
   } 
